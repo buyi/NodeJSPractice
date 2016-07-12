@@ -1,0 +1,22 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "haha",
+  "main": "index.js",
+  "scripts": {
+    "test": "hehe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jj"
+  },
+  "keywords": [
+    "oo"
+  ],
+  "author": "buyi",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.14.0",
+    "utility": "^1.8.0"
+  }
+}
